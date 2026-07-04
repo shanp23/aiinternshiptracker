@@ -1,0 +1,61 @@
+name: Update internships
+
+on:
+  schedule:
+    - cron: "0 * * * *"     # every hour (UTC)
+  workflow_dispatch:          # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write             # needed so the bot can commit the refreshed data
+
+concurrency:
+  group: update-internships
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the engine
+        env:
+          # Optional: WORKDAY_PROXY lets the cloud runner reach Workday tenants
+          # that block datacenter IPs. Unset = Workday runs direct.
+          WORKDAY_PROXY: ${{ secrets.WORKDAY_PROXY }}
+          # Optional: set these repo secrets to mirror each run into Postgres.
+          # Unset = the engine still runs and exports README/CSV as normal.
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          # Optional: Discord channel webhook — posts each run's new roles.
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          # Optional: Brevo transactional key + verified sender — arms the
+          # daily email digest to the subscriber list (see mailer.py).
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+        run: python run.py update
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md data/jobs.json data/internships.csv data/stats.json \
+                  data/health.json data/history.jsonl data/mail_state.json \
+                  docs/index.html docs/feed.xml docs/unsubscribe.html \
+                  docs/trends-light.svg docs/trends-dark.svg \
+                  docs/api/jobs.json docs/api/stats.json docs/api/radar.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update internships ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
