@@ -12,7 +12,7 @@ import json
 from datetime import UTC, datetime, timedelta
 from urllib.parse import quote
 
-from . import coding, config, filters, h1b, paths, priority, radar, sponsorship
+from . import coding, config, filters, h1b, paths, priority, radar
 
 
 def _engine_metrics() -> str:
