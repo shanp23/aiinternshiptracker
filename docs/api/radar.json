@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-04T13:43:41Z",
+ "generated_at": "2026-07-04T15:44:24Z",
  "cycle": "Summer 2027",
- "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+ "source": "https://github.com/shanp23/aiinternshiptracker",
  "companies": [
   {
    "company": "Rippling",
@@ -2559,8 +2559,8 @@
    "approx": false,
    "expected": "2026-11-23",
    "days_until": 142,
-   "status": "posted",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "status": "waiting",
+   "url": "",
    "roles_last_cycle": 7
   },
   {
@@ -6809,8 +6809,8 @@
    "approx": false,
    "expected": "2027-02-23",
    "days_until": 234,
-   "status": "posted",
-   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+   "status": "waiting",
+   "url": "",
    "roles_last_cycle": 8
   },
   {
@@ -8629,8 +8629,8 @@
    "approx": false,
    "expected": "2027-06-10",
    "days_until": 341,
-   "status": "posted",
-   "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
+   "status": "waiting",
+   "url": "",
    "roles_last_cycle": 8
   },
   {
