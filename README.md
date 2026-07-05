@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 0 new this week · 3,557 companies tracked · updated Jul 04, 2026 at 23:04 UTC**
+**0 open roles · 0 new this week · 3,557 companies tracked · updated Jul 05, 2026 at 00:14 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -62,11 +62,11 @@ Stop refreshing career pages. This is each company's **first intern posting last
 | Company | First posted last cycle | Expected this cycle | Status |
 |---|---|---|---|
 | Rippling | Jun 07 | ~Jun 07 · any day now | ⏳ waiting |
-| Tesla | Aug 03 | ~Aug 03 · in ~30d | ⏳ waiting |
-| Notion | Aug 08 | ~Aug 08 · in ~35d | ⏳ waiting |
-| Atomic Semi | Aug 15 | ~Aug 15 · in ~42d | ⏳ waiting |
-| Datadog | Aug 18 | ~Aug 18 · in ~45d | ⏳ waiting |
-| Shopify | Aug 19 | ~Aug 19 | ⏳ waiting |
+| Tesla | Aug 03 | ~Aug 03 · in ~29d | ⏳ waiting |
+| Notion | Aug 08 | ~Aug 08 · in ~34d | ⏳ waiting |
+| Atomic Semi | Aug 15 | ~Aug 15 · in ~41d | ⏳ waiting |
+| Datadog | Aug 18 | ~Aug 18 · in ~44d | ⏳ waiting |
+| Shopify | Aug 19 | ~Aug 19 · in ~45d | ⏳ waiting |
 | Capital One | Aug 20 | ~Aug 20 | ⏳ waiting |
 | NVIDIA | Aug 24 | ~Aug 24 | ⏳ waiting |
 | Pinterest | Sep 24 | ~Sep 24 | ⏳ waiting |
@@ -99,7 +99,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,557 companies across 11 ATS platforms · 98% fetch success · completed in 252.8s._
+_Engine (last run): 3,557 companies across 11 ATS platforms · 97% fetch success · completed in 251.6s._
 
 ## Contributing
 
