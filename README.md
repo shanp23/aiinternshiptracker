@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 0 new this week · 3,653 companies tracked · updated Jul 18, 2026 at 22:58 UTC**
+**0 open roles · 0 new this week · 3,653 companies tracked · updated Jul 19, 2026 at 00:00 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -62,13 +62,13 @@ Stop refreshing career pages. This is each company's **first intern posting last
 | Company | First posted last cycle | Expected this cycle | Status |
 |---|---|---|---|
 | Rippling | Jun 07 | ~Jun 07 · any day now | ⏳ waiting |
-| Tesla | Aug 03 | ~Aug 03 · in ~16d | ⏳ waiting |
-| Notion | Aug 08 | ~Aug 08 · in ~21d | ⏳ waiting |
-| Atomic Semi | Aug 15 | ~Aug 15 · in ~28d | ⏳ waiting |
-| Datadog | Aug 18 | ~Aug 18 · in ~31d | ⏳ waiting |
-| Shopify | Aug 19 | ~Aug 19 · in ~32d | ⏳ waiting |
-| Capital One | Aug 20 | ~Aug 20 · in ~33d | ⏳ waiting |
-| NVIDIA | Aug 24 | ~Aug 24 · in ~37d | ⏳ waiting |
+| Tesla | Aug 03 | ~Aug 03 · in ~15d | ⏳ waiting |
+| Notion | Aug 08 | ~Aug 08 · in ~20d | ⏳ waiting |
+| Atomic Semi | Aug 15 | ~Aug 15 · in ~27d | ⏳ waiting |
+| Datadog | Aug 18 | ~Aug 18 · in ~30d | ⏳ waiting |
+| Shopify | Aug 19 | ~Aug 19 · in ~31d | ⏳ waiting |
+| Capital One | Aug 20 | ~Aug 20 · in ~32d | ⏳ waiting |
+| NVIDIA | Aug 24 | ~Aug 24 · in ~36d | ⏳ waiting |
 | Pinterest | Sep 24 | ~Sep 24 | ⏳ waiting |
 | Amazon | Oct 04 | ~Oct 04 | ⏳ waiting |
 | Figure | Oct 22 | ~Oct 22 | ⏳ waiting |
@@ -99,7 +99,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,653 companies across 11 ATS platforms · 99% fetch success · completed in 264.7s._
+_Engine (last run): 3,653 companies across 11 ATS platforms · 99% fetch success · completed in 219.5s._
 
 ## Contributing
 
