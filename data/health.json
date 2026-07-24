@@ -10,8 +10,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/alloyenterprises?includeCompensation=true'\nFor more information check: https://developer.mozilla.or"
   },
   "ashby:atomicsemi": {
-    "consecutive_failures": 7,
-    "last_attempt_at": "2026-07-21T17:28:05Z",
+    "consecutive_failures": 8,
+    "last_attempt_at": "2026-07-24T18:24:25Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/atomicsemi?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "ashby:candidate": {
@@ -304,11 +304,6 @@
     "last_attempt_at": "2026-07-22T04:24:13Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/genies/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
-  "greenhouse:gram": {
-    "consecutive_failures": 8,
-    "last_attempt_at": "2026-07-21T17:28:05Z",
-    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/gram/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
-  },
   "greenhouse:grammarly": {
     "consecutive_failures": 12,
     "last_attempt_at": "2026-07-22T04:24:13Z",
@@ -345,8 +340,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/job-boards/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:johnsonlawgroup": {
-    "consecutive_failures": 8,
-    "last_attempt_at": "2026-07-21T17:28:05Z",
+    "consecutive_failures": 9,
+    "last_attempt_at": "2026-07-24T18:24:25Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/johnsonlawgroup/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "greenhouse:loop": {
@@ -818,6 +813,11 @@
     "consecutive_failures": 12,
     "last_attempt_at": "2026-07-22T04:24:13Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://fugro.wd3.myworkdayjobs.com/wday/cxs/fugro/broadbean_external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
+  },
+  "workday:greenheckgroup": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-24T18:24:25Z",
+    "last_error": "HTTPStatusError: Server error '520 <none>' for url 'https://greenheckgroup.wd5.myworkdayjobs.com/wday/cxs/greenheckgroup/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "workday:gtsgbu": {
     "consecutive_failures": 7,
