@@ -719,11 +719,6 @@
     "last_attempt_at": "2026-07-28T08:43:04Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/en-gb/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
-  "workday:abbott": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-07-28T18:21:40Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:activision": {
     "consecutive_failures": 14,
     "last_attempt_at": "2026-07-28T08:43:04Z",
