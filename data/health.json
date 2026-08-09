@@ -1009,6 +1009,11 @@
     "last_attempt_at": "2026-08-08T20:37:39Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://gtsgbu.wd3.myworkdayjobs.com/wday/cxs/gtsgbu/Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
+  "workday:hyvee": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-09T23:37:18Z",
+    "last_error": "HTTPStatusError: Server error '520 <none>' for url 'https://hyvee.wd1.myworkdayjobs.com/wday/cxs/hyvee/HyVeeCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
   "workday:idexx": {
     "consecutive_failures": 5,
     "last_attempt_at": "2026-08-09T14:41:14Z",
@@ -1018,6 +1023,11 @@
     "consecutive_failures": 18,
     "last_attempt_at": "2026-08-09T14:41:14Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://insmed.wd5.myworkdayjobs.com/wday/cxs/insmed/EXTERNAL/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
+  },
+  "workday:justfab": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-09T23:37:18Z",
+    "last_error": "HTTPStatusError: Server error '502 Bad Gateway' for url 'https://justfab.wd1.myworkdayjobs.com/wday/cxs/justfab/fabletics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "workday:kar": {
     "consecutive_failures": 18,
