@@ -320,8 +320,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/capitalrx/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:climateai": {
-    "consecutive_failures": 8,
-    "last_attempt_at": "2026-08-07T11:53:32Z",
+    "consecutive_failures": 9,
+    "last_attempt_at": "2026-08-10T13:21:11Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/climateai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:cohere": {
@@ -790,18 +790,18 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/en-gb/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:we-are-social-1": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-10T11:55:57Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-08-10T13:21:11Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/we-are-social-1/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "workable:zaizi": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-10T11:55:57Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-08-10T13:21:11Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zaizi/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:zego": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-10T11:55:57Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-08-10T13:21:11Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zego/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "workday:activision": {
@@ -968,6 +968,11 @@
     "consecutive_failures": 17,
     "last_attempt_at": "2026-08-08T07:56:21Z",
     "last_error": "KeyError: 'site'"
+  },
+  "workday:flextronics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-10T13:21:11Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://flextronics.wd1.myworkdayjobs.com/wday/cxs/flextronics/Careers/jobs'\nFor more information check: https://developer.mozilla.org/en"
   },
   "workday:fragomen": {
     "consecutive_failures": 18,
