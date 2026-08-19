@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 0 new this week · 4,210 companies tracked · updated Aug 18, 2026 at 23:28 UTC**
+**0 open roles · 0 new this week · 4,210 companies tracked · updated Aug 19, 2026 at 01:27 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -66,10 +66,10 @@ Stop refreshing career pages. This is each company's **first intern posting last
 | Notion | Aug 08 | ~Aug 08 · any day now | ⏳ waiting |
 | Atomic Semi | Aug 15 | ~Aug 15 · any day now | ⏳ waiting |
 | Datadog | Aug 18 | ~Aug 18 · any day now | ⏳ waiting |
-| Shopify | Aug 19 | ~Aug 19 · in ~1d | ⏳ waiting |
-| Capital One | Aug 20 | ~Aug 20 · in ~2d | ⏳ waiting |
-| NVIDIA | Aug 24 | ~Aug 24 · in ~6d | ⏳ waiting |
-| Pinterest | Sep 24 | ~Sep 24 · in ~37d | ⏳ waiting |
+| Shopify | Aug 19 | ~Aug 19 · any day now | ⏳ waiting |
+| Capital One | Aug 20 | ~Aug 20 · in ~1d | ⏳ waiting |
+| NVIDIA | Aug 24 | ~Aug 24 · in ~5d | ⏳ waiting |
+| Pinterest | Sep 24 | ~Sep 24 · in ~36d | ⏳ waiting |
 | Amazon | Oct 04 | ~Oct 04 | ⏳ waiting |
 | Figure | Oct 22 | ~Oct 22 | ⏳ waiting |
 | Rivian and Volkswagen Group Technologies | Oct 30 | ~Oct 30 | ⏳ waiting |
@@ -99,7 +99,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,210 companies across 11 ATS platforms · 99% fetch success · completed in 246.1s._
+_Engine (last run): 4,210 companies across 11 ATS platforms · 99% fetch success · completed in 292.2s._
 
 ## Contributing
 
