@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 0 new this week · 4,210 companies tracked · updated Aug 19, 2026 at 23:30 UTC**
+**0 open roles · 0 new this week · 4,210 companies tracked · updated Aug 20, 2026 at 01:26 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -67,10 +67,10 @@ Stop refreshing career pages. This is each company's **first intern posting last
 | Atomic Semi | Aug 15 | ~Aug 15 · any day now | ⏳ waiting |
 | Datadog | Aug 18 | ~Aug 18 · any day now | ⏳ waiting |
 | Shopify | Aug 19 | ~Aug 19 · any day now | ⏳ waiting |
-| Capital One | Aug 20 | ~Aug 20 · in ~1d | ⏳ waiting |
-| NVIDIA | Aug 24 | ~Aug 24 · in ~5d | ⏳ waiting |
-| Pinterest | Sep 24 | ~Sep 24 · in ~36d | ⏳ waiting |
-| Amazon | Oct 04 | ~Oct 04 | ⏳ waiting |
+| Capital One | Aug 20 | ~Aug 20 · any day now | ⏳ waiting |
+| NVIDIA | Aug 24 | ~Aug 24 · in ~4d | ⏳ waiting |
+| Pinterest | Sep 24 | ~Sep 24 · in ~35d | ⏳ waiting |
+| Amazon | Oct 04 | ~Oct 04 · in ~45d | ⏳ waiting |
 | Figure | Oct 22 | ~Oct 22 | ⏳ waiting |
 | Rivian and Volkswagen Group Technologies | Oct 30 | ~Oct 30 | ⏳ waiting |
 | Leidos | by Nov 05 | ~Nov 05 or earlier | ⏳ waiting |
@@ -99,7 +99,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,210 companies across 11 ATS platforms · 98% fetch success · completed in 334.4s._
+_Engine (last run): 4,210 companies across 11 ATS platforms · 97% fetch success · completed in 298.3s._
 
 ## Contributing
 
