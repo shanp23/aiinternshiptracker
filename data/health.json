@@ -979,11 +979,6 @@
     "last_attempt_at": "2026-08-21T16:42:48Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://chop.wd5.myworkdayjobs.com/wday/cxs/chop/CHOPExternalCareers/jobs'\nFor more information check: https://developer.mozilla.org/e"
   },
-  "workday:clearwateranalytics": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-22T09:33:46Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://clearwateranalytics.wd1.myworkdayjobs.com/wday/cxs/clearwateranalytics/Clearwater_Analytics_Careers/jobs'\nFor more information ch"
-  },
   "workday:cliftonlarsonallen": {
     "consecutive_failures": 22,
     "last_attempt_at": "2026-08-21T16:42:48Z",
@@ -1064,11 +1059,6 @@
     "last_attempt_at": "2026-08-22T20:30:51Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://davita.wd1.myworkdayjobs.com/wday/cxs/davita/DKC_External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
-  "workday:dexcom": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-22T09:33:46Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dexcom.wd1.myworkdayjobs.com/wday/cxs/dexcom/Dexcom/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
-  },
   "workday:dickssportinggoods": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-08-22T20:30:51Z",
@@ -1113,16 +1103,6 @@
     "consecutive_failures": 4,
     "last_attempt_at": "2026-08-22T14:28:20Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://equinix.wd1.myworkdayjobs.com/wday/cxs/equinix/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
-  },
-  "workday:essentiahealth": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T21:28:16Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://essentiahealth.wd1.myworkdayjobs.com/wday/cxs/essentiahealth/Essentia_Health/jobs'\nFor more information check: https://developer."
-  },
-  "workday:evolent": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T21:28:16Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://evolent.wd1.myworkdayjobs.com/wday/cxs/evolent/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "workday:evrazna": {
     "consecutive_failures": 22,
