@@ -96,6 +96,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "42dot",
+    "slug": "42dot",
+    "ats": "ashby"
+  },
+  {
     "name": "4DS Corp",
     "slug": "4DSCorp",
     "ats": "smartrecruiters"
@@ -313,6 +318,11 @@
     "name": "Accor",
     "slug": "AccorCorpo",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Accora",
+    "slug": "accora",
+    "ats": "workable"
   },
   {
     "name": "Accuray",
@@ -568,6 +578,11 @@
     "name": "AECOM",
     "slug": "AECOM2",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "AEG",
+    "slug": "aegworldwide",
+    "ats": "greenhouse"
   },
   {
     "name": "Aegis Therapies",
@@ -872,6 +887,13 @@
     "name": "Alchemy",
     "slug": "alchemy",
     "ats": "ashby"
+  },
+  {
+    "name": "Alcoa",
+    "slug": "alcoa",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "Careers"
   },
   {
     "name": "Alcon",
@@ -1422,6 +1444,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Amperesand",
+    "slug": "amperesand",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Ampersand",
     "slug": "ampersand-biomedicines",
     "ats": "rippling"
@@ -1631,6 +1658,11 @@
     "name": "AnySignal",
     "slug": "anysignal",
     "ats": "lever"
+  },
+  {
+    "name": "Anysphere",
+    "slug": "cursor",
+    "ats": "ashby"
   },
   {
     "name": "Anything",
@@ -2489,6 +2521,13 @@
     "site": "austal"
   },
   {
+    "name": "Austin Community College District",
+    "slug": "austincc",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "external"
+  },
+  {
     "name": "Authentic",
     "slug": "authenticbrandsgroup",
     "ats": "greenhouse"
@@ -2811,6 +2850,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Baidu USA",
+    "slug": "baidu",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Bain Capital",
     "slug": "baincapital",
     "ats": "workday",
@@ -2908,6 +2952,11 @@
     "site": "Staff"
   },
   {
+    "name": "Barnes & Thornburg",
+    "slug": "barnes",
+    "ats": "ashby"
+  },
+  {
     "name": "Barr",
     "slug": "barr",
     "ats": "workday",
@@ -2992,6 +3041,13 @@
     "ats": "workable"
   },
   {
+    "name": "BDC Venture Capital",
+    "slug": "bdc",
+    "ats": "workday",
+    "wd": "wd10",
+    "site": "BDC_Careers"
+  },
+  {
     "name": "BDO Canada",
     "slug": "bdo",
     "ats": "workday",
@@ -3026,6 +3082,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "External"
+  },
+  {
+    "name": "Bedrock Robotics",
+    "slug": "bedrock-robotics",
+    "ats": "ashby"
   },
   {
     "name": "Beghou Consulting",
@@ -3104,6 +3165,11 @@
     "name": "Bertelsmann",
     "slug": "Bertelsmann-Jobs",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Bertram Capital Management",
+    "slug": "bertramcapitalmanagement",
+    "ats": "greenhouse"
   },
   {
     "name": "Best Buy",
@@ -3719,6 +3785,13 @@
     "site": "bpCareers"
   },
   {
+    "name": "Bracco",
+    "slug": "bracco",
+    "ats": "workday",
+    "wd": "wd103",
+    "site": "braccocareers"
+  },
+  {
     "name": "Bracebridge Capital",
     "slug": "bracebridgecapital",
     "ats": "greenhouse"
@@ -4020,6 +4093,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Buildertrend",
+    "slug": "buildertrend",
+    "ats": "workday",
+    "wd": "wd108",
+    "site": "External_Careers"
+  },
+  {
     "name": "Built Technologies",
     "slug": "getbuilt",
     "ats": "greenhouse"
@@ -4188,6 +4268,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "External"
+  },
+  {
+    "name": "Callan",
+    "slug": "callan",
+    "ats": "lever"
   },
   {
     "name": "Callaway Golf",
@@ -4609,6 +4694,13 @@
     "site": "CDK"
   },
   {
+    "name": "CDPQ",
+    "slug": "cdpq",
+    "ats": "workday",
+    "wd": "wd10",
+    "site": "CDPQ"
+  },
+  {
     "name": "CDW Corporation",
     "slug": "cdw",
     "ats": "workday",
@@ -4809,6 +4901,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "ChanelCareers"
+  },
+  {
+    "name": "CHAOS Industries",
+    "slug": "chaosindustries",
+    "ats": "greenhouse"
   },
   {
     "name": "Charge Robotics",
@@ -5013,6 +5110,11 @@
     "site": "cignacareers"
   },
   {
+    "name": "CIM Group",
+    "slug": "cimgroup",
+    "ats": "lever"
+  },
+  {
     "name": "Cincinnati Children’s Hospital and Medical Center",
     "slug": "cincinnatichildrens",
     "ats": "workday",
@@ -5032,6 +5134,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "Cineplex"
+  },
+  {
+    "name": "Cintal",
+    "slug": "cintal",
+    "ats": "rippling"
   },
   {
     "name": "Circle",
@@ -5668,6 +5775,11 @@
     "site": "Careers"
   },
   {
+    "name": "Collier Aerospace",
+    "slug": "collieraerospace",
+    "ats": "rippling"
+  },
+  {
     "name": "Colliers",
     "slug": "colliers",
     "ats": "workday",
@@ -5878,6 +5990,11 @@
     "site": "CondeCareers"
   },
   {
+    "name": "ConductorAI",
+    "slug": "conductorai",
+    "ats": "ashby"
+  },
+  {
     "name": "ConductorOne",
     "slug": "conductorone",
     "ats": "ashby"
@@ -5888,6 +6005,13 @@
     "ats": "oracle",
     "host": "egua.fa.us2.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "Cone Health",
+    "slug": "conehealth",
+    "ats": "workday",
+    "wd": "wd12",
+    "site": "cone_health-careers"
   },
   {
     "name": "Confido",
@@ -6081,6 +6205,11 @@
     "site": "CorebridgeFinancial"
   },
   {
+    "name": "Coretek Services",
+    "slug": "coretek-services",
+    "ats": "workable"
+  },
+  {
     "name": "CoreWeave",
     "slug": "coreweave",
     "ats": "greenhouse"
@@ -6226,6 +6355,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "CoxHealth_External"
+  },
+  {
+    "name": "Cozey",
+    "slug": "cozey-internships",
+    "ats": "rippling"
   },
   {
     "name": "CPI Security",
@@ -6929,6 +7063,11 @@
     "site": "kion_scs"
   },
   {
+    "name": "Demiurge Studios",
+    "slug": "demiurgestudios",
+    "ats": "lever"
+  },
+  {
     "name": "Democratic Governors Association",
     "slug": "dga",
     "ats": "lever"
@@ -7047,6 +7186,16 @@
     "name": "DH Pace",
     "slug": "dhpace",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Dialogue",
+    "slug": "dialogue-fr",
+    "ats": "rippling"
+  },
+  {
+    "name": "Dialogue Health Technologies",
+    "slug": "dialogue-en",
+    "ats": "rippling"
   },
   {
     "name": "Dialpad",
@@ -8419,6 +8568,13 @@
     "site": "External"
   },
   {
+    "name": "Evolito",
+    "slug": "evolito",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "Evolito_Career_Site"
+  },
+  {
     "name": "Evolve Technology",
     "slug": "evolv-technology",
     "ats": "workable"
@@ -8465,6 +8621,11 @@
     "ats": "workday",
     "wd": "wd103",
     "site": "Exclusive-Networks-Career"
+  },
+  {
+    "name": "Exegy",
+    "slug": "exegy",
+    "ats": "ashby"
   },
   {
     "name": "Exelixis",
@@ -8533,6 +8694,11 @@
     "name": "Extreme Networks",
     "slug": "extremenetworks",
     "ats": "lever"
+  },
+  {
+    "name": "Extropic",
+    "slug": "extropic",
+    "ats": "ashby"
   },
   {
     "name": "Eyebot",
@@ -8676,6 +8842,11 @@
     "name": "Farsight",
     "slug": "farsight",
     "ats": "ashby"
+  },
+  {
+    "name": "Fasanara",
+    "slug": "fasanara",
+    "ats": "workable"
   },
   {
     "name": "Fashion Nova",
@@ -9350,6 +9521,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Fortune Brands",
+    "slug": "FortuneBrands",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Forus",
     "slug": "forus",
     "ats": "ashby"
@@ -9622,6 +9798,13 @@
     "ats": "ashby"
   },
   {
+    "name": "Gables Residential",
+    "slug": "gables",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "Gables_Careers"
+  },
+  {
     "name": "GAF",
     "slug": "gafsgi",
     "ats": "workday",
@@ -9858,6 +10041,11 @@
     "name": "Generation West Virginia",
     "slug": "generation-west-virginia-1",
     "ats": "workable"
+  },
+  {
+    "name": "Genesis AI",
+    "slug": "genesis",
+    "ats": "ashby"
   },
   {
     "name": "Genesis Therapeutics",
@@ -10443,6 +10631,18 @@
   {
     "name": "Great Question",
     "slug": "greatquestion",
+    "ats": "ashby"
+  },
+  {
+    "name": "Greatamerica",
+    "slug": "greatamerica",
+    "ats": "workday",
+    "wd": "wd12",
+    "site": "greatamericacareers"
+  },
+  {
+    "name": "Greenboard",
+    "slug": "greenboard",
     "ats": "ashby"
   },
   {
@@ -11179,6 +11379,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "HMH",
+    "slug": "hmhw",
+    "ats": "workday",
+    "wd": "wd12",
+    "site": "hmh_careers"
+  },
+  {
     "name": "HMT",
     "slug": "hmt-tank",
     "ats": "breezy"
@@ -11423,6 +11630,11 @@
     "site": "humana_external_career_site"
   },
   {
+    "name": "Humanoid",
+    "slug": "humanoid",
+    "ats": "ashby"
+  },
+  {
     "name": "HumanSignal",
     "slug": "humansignal",
     "ats": "greenhouse"
@@ -11517,6 +11729,13 @@
     "name": "Hyperlight",
     "slug": "hyperlight",
     "ats": "workable"
+  },
+  {
+    "name": "Hypertherm",
+    "slug": "hypertherm",
+    "ats": "workday",
+    "wd": "wd503",
+    "site": "hypertherm-careers"
   },
   {
     "name": "Hyster-Yale Materials Handling",
@@ -11773,6 +11992,11 @@
     "ats": "lever"
   },
   {
+    "name": "Immuta",
+    "slug": "immuta",
+    "ats": "lever"
+  },
+  {
     "name": "IMO Health",
     "slug": "imo-online",
     "ats": "lever"
@@ -11818,6 +12042,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "incident.io",
+    "slug": "incident",
+    "ats": "ashby"
+  },
+  {
     "name": "Inclined Technologies",
     "slug": "inclined",
     "ats": "ashby"
@@ -11854,6 +12083,11 @@
   {
     "name": "Inductive Automation",
     "slug": "inductive-automation-llc",
+    "ats": "ashby"
+  },
+  {
+    "name": "Inferact",
+    "slug": "inferact",
     "ats": "ashby"
   },
   {
@@ -12447,6 +12681,13 @@
     "site": "jcrewcareers"
   },
   {
+    "name": "J.M. Smucker",
+    "slug": "smucker",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "US_External_Careers"
+  },
+  {
     "name": "J.S. Held",
     "slug": "JSHeldLLC",
     "ats": "smartrecruiters"
@@ -12582,6 +12823,13 @@
     "name": "Jobsbridge",
     "slug": "Jobsbridge1",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "John Gore Organization",
+    "slug": "johngore",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "Careers"
   },
   {
     "name": "John Lewis Partnership",
@@ -12988,6 +13236,11 @@
     "name": "Klue",
     "slug": "klue",
     "ats": "ashby"
+  },
+  {
+    "name": "Knobelsdorff Enterprises",
+    "slug": "KnobelsdorffEnterprises",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Knock",
@@ -14725,6 +14978,11 @@
     "site": "redeploymentmedtroniccareers"
   },
   {
+    "name": "Megazone",
+    "slug": "megazone",
+    "ats": "ashby"
+  },
+  {
     "name": "Megger",
     "slug": "megger",
     "ats": "workday",
@@ -15165,6 +15423,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Mirantis",
+    "slug": "Mirantis",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Mirego",
     "slug": "mirego",
     "ats": "lever"
@@ -15428,6 +15691,11 @@
     "name": "Montreal Institute for Learning Algorithms",
     "slug": "mila-2",
     "ats": "workable"
+  },
+  {
+    "name": "Monzo",
+    "slug": "monzo",
+    "ats": "greenhouse"
   },
   {
     "name": "moo",
@@ -16813,11 +17081,21 @@
     "ats": "ashby"
   },
   {
+    "name": "ONE Finance",
+    "slug": "oneapp",
+    "ats": "ashby"
+  },
+  {
     "name": "OneDigital",
     "slug": "onedigital",
     "ats": "workday",
     "wd": "wd5",
     "site": "onedigital"
+  },
+  {
+    "name": "OneImaging",
+    "slug": "oneimaging",
+    "ats": "greenhouse"
   },
   {
     "name": "OneMain Financial",
@@ -16968,6 +17246,11 @@
     "name": "OpenTable",
     "slug": "opentable",
     "ats": "greenhouse"
+  },
+  {
+    "name": "OpenWorks Engineering",
+    "slug": "openworks-engineering",
+    "ats": "workable"
   },
   {
     "name": "OpenX",
@@ -17279,6 +17562,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "PacificLifeCareers"
+  },
+  {
+    "name": "Pacificfusion",
+    "slug": "pacificfusion",
+    "ats": "greenhouse"
   },
   {
     "name": "PacificSource",
@@ -17852,6 +18140,11 @@
     "site": "External"
   },
   {
+    "name": "Pilot Company",
+    "slug": "PilotCompany",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Pima County",
     "slug": "pimacounty",
     "ats": "workday",
@@ -18073,6 +18366,13 @@
     "name": "Point C",
     "slug": "pointc",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Point32Health",
+    "slug": "point32health",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "THP"
   },
   {
     "name": "Point72",
@@ -18733,6 +19033,11 @@
     "name": "Quest Analytics",
     "slug": "questanalytics",
     "ats": "lever"
+  },
+  {
+    "name": "Quick Release",
+    "slug": "quick-release",
+    "ats": "greenhouse"
   },
   {
     "name": "QuidelOrtho",
@@ -19423,6 +19728,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "richemont"
+  },
+  {
+    "name": "Ridgeline",
+    "slug": "ridgeline",
+    "ats": "greenhouse"
   },
   {
     "name": "Rigetti",
@@ -20488,6 +20798,11 @@
     "site": "SentryCareers"
   },
   {
+    "name": "Sequence Holdings",
+    "slug": "seqholdings",
+    "ats": "ashby"
+  },
+  {
     "name": "Sereact",
     "slug": "sereact",
     "ats": "ashby"
@@ -21014,6 +21329,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Smartflower Solar Llc",
+    "slug": "smartflower-solar-llc",
+    "ats": "workable"
+  },
+  {
     "name": "Smartly.io",
     "slug": "smartlyio",
     "ats": "greenhouse"
@@ -21073,6 +21393,11 @@
     "ats": "workday",
     "wd": "wd103",
     "site": "External"
+  },
+  {
+    "name": "Snyk",
+    "slug": "snyk",
+    "ats": "ashby"
   },
   {
     "name": "SOCi",
@@ -21371,6 +21696,11 @@
     "name": "Sparksoft",
     "slug": "sparksoftcorporation",
     "ats": "greenhouse"
+  },
+  {
+    "name": "SpawGlass",
+    "slug": "spawglass",
+    "ats": "lever"
   },
   {
     "name": "Specter",
@@ -22015,6 +22345,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Swarmaero",
+    "slug": "swarmaero",
+    "ats": "ashby"
+  },
+  {
     "name": "SWBC",
     "slug": "swbc",
     "ats": "workday",
@@ -22139,6 +22474,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "synthomercareers"
+  },
+  {
+    "name": "Syntiant",
+    "slug": "syntiant",
+    "ats": "workable"
   },
   {
     "name": "Sysco",
@@ -22272,6 +22612,11 @@
     "name": "Tangram Interiors",
     "slug": "tangraminteriors",
     "ats": "lever"
+  },
+  {
+    "name": "Tanium",
+    "slug": "tanium",
+    "ats": "greenhouse"
   },
   {
     "name": "Tapcart",
@@ -22808,6 +23153,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "EXTERNAL_TKG"
+  },
+  {
+    "name": "The MJ Companies",
+    "slug": "themjcos",
+    "ats": "greenhouse"
   },
   {
     "name": "The Movement Cooperative",
@@ -24616,6 +24966,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Viamrobotics",
+    "slug": "viamrobotics",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Viatris",
     "slug": "viatris",
     "ats": "workday",
@@ -24746,6 +25101,11 @@
     "ats": "workday",
     "wd": "wd12",
     "site": "Careers"
+  },
+  {
+    "name": "Vitana Pediatric & Orthodontic Partners",
+    "slug": "vitana-pediatric",
+    "ats": "lever"
   },
   {
     "name": "VITAS Healthcare",
@@ -25536,6 +25896,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "WorldStrides",
+    "slug": "world4822stri986des",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Worldwide TechServices",
     "slug": "WorldwideTechServices",
     "ats": "smartrecruiters"
@@ -25659,6 +26024,11 @@
     "site": "External"
   },
   {
+    "name": "Xcimer",
+    "slug": "xcimer",
+    "ats": "lever"
+  },
+  {
     "name": "Xebia",
     "slug": "xebiausa",
     "ats": "greenhouse"
@@ -25759,6 +26129,11 @@
     "ats": "oracle",
     "host": "eczd.fa.us2.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "Zaber Technologies",
+    "slug": "zaber",
+    "ats": "workable"
   },
   {
     "name": "Zachry Group",
@@ -25870,6 +26245,11 @@
     "name": "Zip",
     "slug": "zip",
     "ats": "ashby"
+  },
+  {
+    "name": "Zippd",
+    "slug": "zippd",
+    "ats": "workable"
   },
   {
     "name": "Zocdoc",
