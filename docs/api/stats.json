@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-26T22:35:34Z",
- "duration_seconds": 321.5,
+ "generated_at": "2026-09-27T01:14:11Z",
+ "duration_seconds": 233.5,
  "companies_total": 4640,
  "companies_by_source": {
   "greenhouse": 1096,
@@ -16,13 +16,10 @@
   "breezy": 13
  },
  "quarantined": 341,
- "fetched_ok": 4238,
- "fetch_errors": 61,
- "errors_by_source": {
-  "workday": 58,
-  "lever": 3
- },
- "fetch_success_rate": 0.986,
+ "fetched_ok": 4299,
+ "fetch_errors": 0,
+ "errors_by_source": {},
+ "fetch_success_rate": 1.0,
  "roles_matched": 0,
  "roles_by_source": {},
  "roles_by_cycle": {},
