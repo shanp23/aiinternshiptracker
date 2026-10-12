@@ -64,6 +64,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "2K",
+    "slug": "2kearlycareers",
+    "ats": "greenhouse"
+  },
+  {
     "name": "2nd Order Solutions",
     "slug": "2os",
     "ats": "lever"
@@ -123,6 +128,11 @@
   {
     "name": "60decibelsinc",
     "slug": "60decibelsinc",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "66 Degrees",
+    "slug": "66degrees",
     "ats": "greenhouse"
   },
   {
@@ -505,6 +515,13 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Aderant",
+    "slug": "aderant",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "Aderant_External_Careers"
+  },
+  {
     "name": "ADGA Group Consultants",
     "slug": "ADGAGroupConsultantsInc1",
     "ats": "smartrecruiters"
@@ -592,6 +609,11 @@
     "name": "Advocate Technologies Inc.",
     "slug": "advocate-technologies-inc",
     "ats": "rippling"
+  },
+  {
+    "name": "Adyen",
+    "slug": "adyen",
+    "ats": "greenhouse"
   },
   {
     "name": "Aechelon Technology",
@@ -1812,6 +1834,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Apple Bank",
+    "slug": "applebank",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "applebankcareers"
+  },
+  {
     "name": "Applied Fluid Power",
     "slug": "applied",
     "ats": "workday",
@@ -2389,6 +2418,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Astera Labs",
+    "slug": "asteraearlycareer2027",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Astranis",
     "slug": "astranis",
     "ats": "greenhouse"
@@ -2500,6 +2534,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Atoms",
+    "slug": "atoms",
+    "ats": "greenhouse"
+  },
+  {
     "name": "ATPCO",
     "slug": "ATPCO1",
     "ats": "smartrecruiters"
@@ -2589,6 +2628,11 @@
   {
     "name": "Aurelius Systems",
     "slug": "aureliussystems",
+    "ats": "ashby"
+  },
+  {
+    "name": "Aurora Innovation",
+    "slug": "aurora-operations-inc",
     "ats": "ashby"
   },
   {
@@ -3420,6 +3464,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "BIP Ventures",
+    "slug": "bipventures",
+    "ats": "workable"
+  },
+  {
     "name": "Bird Construction",
     "slug": "bird",
     "ats": "workday",
@@ -3779,6 +3828,11 @@
     "site": "bobs_careers"
   },
   {
+    "name": "Bobyard",
+    "slug": "bobyard",
+    "ats": "ashby"
+  },
+  {
     "name": "Boldyn Networks",
     "slug": "baicommunications",
     "ats": "workday",
@@ -3791,6 +3845,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "BonSaltLake"
+  },
+  {
+    "name": "Bonsai Robotics",
+    "slug": "bonsairoboticsmain",
+    "ats": "rippling"
   },
   {
     "name": "Bonterra",
@@ -4346,6 +4405,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "External_Careers"
+  },
+  {
+    "name": "Cadence Solutions",
+    "slug": "solutions",
+    "ats": "greenhouse"
   },
   {
     "name": "Cadillac Formula 1 Team",
@@ -4957,6 +5021,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Centric Software",
+    "slug": "centricsoftware",
+    "ats": "workday",
+    "wd": "wd501",
+    "site": "Centric"
+  },
+  {
     "name": "Centrica",
     "slug": "centrica",
     "ats": "workday",
@@ -5017,6 +5088,11 @@
   {
     "name": "Chainlink Labs",
     "slug": "chainlink-labs",
+    "ats": "ashby"
+  },
+  {
+    "name": "Chalk",
+    "slug": "chalk",
     "ats": "ashby"
   },
   {
@@ -5320,6 +5396,11 @@
     "site": "circlekstorejobs"
   },
   {
+    "name": "Circle Logistics",
+    "slug": "CircleLogistics1",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Circleback",
     "slug": "circleback",
     "ats": "ashby"
@@ -5561,6 +5642,11 @@
     "site": "Clarivate_Careers"
   },
   {
+    "name": "Clark",
+    "slug": "clark",
+    "ats": "ashby"
+  },
+  {
     "name": "Clasp",
     "slug": "clasp-group",
     "ats": "ashby"
@@ -5757,6 +5843,11 @@
     "name": "Cloudscaler",
     "slug": "cloudscaler",
     "ats": "ashby"
+  },
+  {
+    "name": "Clēnera",
+    "slug": "clenera",
+    "ats": "greenhouse"
   },
   {
     "name": "CMC Markets",
@@ -6579,6 +6670,11 @@
     "site": "Careers"
   },
   {
+    "name": "Create Music Group",
+    "slug": "createmusicgroup",
+    "ats": "rippling"
+  },
+  {
     "name": "Creatify",
     "slug": "embedding-vc",
     "ats": "ashby"
@@ -6702,6 +6798,11 @@
   {
     "name": "Crown Innovations",
     "slug": "CrownInnovationsInc",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Crown Innovations",
+    "slug": "TBD20261012CrownInnovationsInc",
     "ats": "smartrecruiters"
   },
   {
@@ -8388,6 +8489,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "England Rugby",
+    "slug": "ecer.fa.em2.oraclecloud.com",
+    "ats": "oracle",
+    "host": "ecer.fa.em2.oraclecloud.com",
+    "site": "CX_1"
+  },
+  {
     "name": "Enigma",
     "slug": "enigmaio",
     "ats": "greenhouse"
@@ -9048,6 +9156,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Fanatics",
+    "slug": "fanaticsfbg",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Fannie Mae",
     "slug": "fanniemae",
     "ats": "workday",
@@ -9379,6 +9492,11 @@
     "name": "Fireworks AI",
     "slug": "fireworksai",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Fireworks AI",
+    "slug": "fireworks",
+    "ats": "ashby"
   },
   {
     "name": "First American",
@@ -9734,6 +9852,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "ForestersFinancialCareers"
+  },
+  {
+    "name": "Forge Nano",
+    "slug": "forge-nano",
+    "ats": "breezy"
   },
   {
     "name": "FormFactor",
@@ -10723,6 +10846,11 @@
     "ats": "lever"
   },
   {
+    "name": "Goodfire",
+    "slug": "goodfire",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Goodnotes",
     "slug": "gntemp",
     "ats": "greenhouse"
@@ -11226,6 +11354,11 @@
     "ats": "lever"
   },
   {
+    "name": "Happyrobot",
+    "slug": "happyrobot",
+    "ats": "ashby"
+  },
+  {
     "name": "Harbinger Motors",
     "slug": "harbingermotors",
     "ats": "greenhouse"
@@ -11450,6 +11583,11 @@
     "ats": "oracle",
     "host": "encd.fa.em3.oraclecloud.com",
     "site": "CX_6005"
+  },
+  {
+    "name": "Hedra",
+    "slug": "hedra",
+    "ats": "ashby"
   },
   {
     "name": "Heidelberg Materials",
@@ -12205,6 +12343,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "ID.me",
+    "slug": "idme",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Idaho Power",
     "slug": "idahopowercompany",
     "ats": "workday",
@@ -12258,6 +12401,11 @@
   {
     "name": "IEQ Capital",
     "slug": "ieqcapital",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "IEX",
+    "slug": "iex-interns",
     "ats": "greenhouse"
   },
   {
@@ -13325,6 +13473,11 @@
     "site": "jpicareers"
   },
   {
+    "name": "Judi Health",
+    "slug": "judihealth",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Juicebox",
     "slug": "juicebox",
     "ats": "ashby"
@@ -13395,6 +13548,13 @@
     "name": "Kabam",
     "slug": "kabam",
     "ats": "lever"
+  },
+  {
+    "name": "Kainos",
+    "slug": "kainos",
+    "ats": "workday",
+    "wd": "wd3",
+    "site": "kainos"
   },
   {
     "name": "Kairos Power",
@@ -13492,6 +13652,13 @@
     "site": "kenco"
   },
   {
+    "name": "Kendallgroup",
+    "slug": "kendallgroup",
+    "ats": "workday",
+    "wd": "wd503",
+    "site": "kendall_careers"
+  },
+  {
     "name": "Kensington",
     "slug": "kensingtontours",
     "ats": "greenhouse"
@@ -13534,6 +13701,11 @@
     "name": "KGS Technology Group",
     "slug": "KGSTechnologyGroupInc",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Khanacademy",
+    "slug": "khanacademy",
+    "ats": "greenhouse"
   },
   {
     "name": "Kielo Research",
@@ -13869,6 +14041,11 @@
     "ats": "lever"
   },
   {
+    "name": "Lance",
+    "slug": "lance",
+    "ats": "ashby"
+  },
+  {
     "name": "Land O'Lakes",
     "slug": "landolakes",
     "ats": "workday",
@@ -14060,6 +14237,13 @@
     "site": "Milestone_External"
   },
   {
+    "name": "Legrand",
+    "slug": "iadugs.fa.ocs.oraclecloud.com",
+    "ats": "oracle",
+    "host": "iadugs.fa.ocs.oraclecloud.com",
+    "site": "CX_1001"
+  },
+  {
     "name": "Leidos",
     "slug": "leidos",
     "ats": "workday",
@@ -14223,6 +14407,11 @@
     "ats": "oracle",
     "host": "ibnjjb.fa.ocs.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "Lifted Solutions",
+    "slug": "LiftedanUpworkCompany",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Light & Wonder",
@@ -14771,6 +14960,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Mach Industries",
+    "slug": "machindustries",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Mach9",
     "slug": "mach9",
     "ats": "ashby"
@@ -15253,6 +15447,13 @@
     "ats": "ashby"
   },
   {
+    "name": "Mayo Clinic",
+    "slug": "fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com",
+    "ats": "oracle",
+    "host": "fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com",
+    "site": "CX_1"
+  },
+  {
     "name": "MBDA",
     "slug": "mbda",
     "ats": "workday",
@@ -15638,6 +15839,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Meter",
+    "slug": "meter",
+    "ats": "ashby"
+  },
+  {
     "name": "Metergy Solutions",
     "slug": "metergysolutions",
     "ats": "lever"
@@ -15767,6 +15973,13 @@
     "name": "Middle East Institute",
     "slug": "mei-employment",
     "ats": "rippling"
+  },
+  {
+    "name": "Midlandsb",
+    "slug": "midlandsb",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "msbcareers"
   },
   {
     "name": "Midmark",
@@ -15914,6 +16127,11 @@
     "name": "Mistral AI",
     "slug": "mtesting",
     "ats": "ashby"
+  },
+  {
+    "name": "MistyWest",
+    "slug": "mistywest",
+    "ats": "workable"
   },
   {
     "name": "MiTek",
@@ -16625,6 +16843,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "neighborly"
+  },
+  {
+    "name": "Neko Health",
+    "slug": "neko-health",
+    "ats": "ashby"
   },
   {
     "name": "Nelnet",
@@ -18518,6 +18741,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Perr&Knight",
+    "slug": "perrknight",
+    "ats": "lever"
+  },
+  {
     "name": "Perry Ellis International",
     "slug": "perryellisinternational",
     "ats": "greenhouse"
@@ -19379,6 +19607,11 @@
     "ats": "lever"
   },
   {
+    "name": "Provectus",
+    "slug": "provectus",
+    "ats": "lever"
+  },
+  {
     "name": "Proxima",
     "slug": "proxima",
     "ats": "ashby"
@@ -20208,6 +20441,11 @@
     "name": "Resonate",
     "slug": "resonate",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Resource Innovations",
+    "slug": "resource-innovations",
+    "ats": "workable"
   },
   {
     "name": "RESPEC",
@@ -22492,6 +22730,11 @@
     "ats": "lever"
   },
   {
+    "name": "SpruceID",
+    "slug": "spruceid",
+    "ats": "ashby"
+  },
+  {
     "name": "Spry Methods",
     "slug": "sprymethods",
     "ats": "lever"
@@ -22566,6 +22809,11 @@
   {
     "name": "StackAdapt",
     "slug": "stackadapt",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "StackAdapt",
+    "slug": "stackadapt-confidential",
     "ats": "greenhouse"
   },
   {
@@ -23394,6 +23642,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "TaxRise",
+    "slug": "taxrise",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Taxwell",
     "slug": "taxwell",
     "ats": "workday",
@@ -23593,6 +23846,11 @@
     "name": "Tenergy",
     "slug": "Tenergy",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Tenet3",
+    "slug": "tenet3",
+    "ats": "greenhouse"
   },
   {
     "name": "TENEX.AI",
@@ -23941,6 +24199,11 @@
     "name": "The Scion Group",
     "slug": "thesciongroupllc",
     "ats": "greenhouse"
+  },
+  {
+    "name": "The Semios Group",
+    "slug": "semios",
+    "ats": "workable"
   },
   {
     "name": "The Shipyard",
@@ -24877,6 +25140,13 @@
     "ats": "workable"
   },
   {
+    "name": "Uber",
+    "slug": "iaziqy.fa.ocs.oraclecloud.com",
+    "ats": "oracle",
+    "host": "iaziqy.fa.ocs.oraclecloud.com",
+    "site": "CX_1"
+  },
+  {
     "name": "Uber Freight",
     "slug": "uberfreight",
     "ats": "greenhouse"
@@ -24885,6 +25155,13 @@
     "name": "Ubisoft",
     "slug": "Ubisoft2",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "UCSF",
+    "slug": "iazuqy.fa.ocs.oraclecloud.com",
+    "ats": "oracle",
+    "host": "iazuqy.fa.ocs.oraclecloud.com",
+    "site": "CX_1"
   },
   {
     "name": "Udemy",
