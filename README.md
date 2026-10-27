@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 0 new this week · 4,886 companies tracked · updated Oct 26, 2026 at 21:32 UTC**
+**0 open roles · 0 new this week · 4,886 companies tracked · updated Oct 27, 2026 at 01:24 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -72,15 +72,15 @@ Stop refreshing career pages. This is each company's **first intern posting last
 | Pinterest | Sep 24 | ~Sep 24 · any day now | ⏳ waiting |
 | Amazon | Oct 04 | ~Oct 04 · any day now | ⏳ waiting |
 | Figure | Oct 22 | ~Oct 22 · any day now | ⏳ waiting |
-| Rivian and Volkswagen Group Technologies | Oct 30 | ~Oct 30 · in ~4d | ⏳ waiting |
-| Leidos | by Nov 05 | ~Nov 05 or earlier · in ~10d | ⏳ waiting |
-| Meta | by Nov 05 | ~Nov 05 or earlier · in ~10d | ⏳ waiting |
-| T-Mobile | by Nov 05 | ~Nov 05 or earlier · in ~10d | ⏳ waiting |
-| Sun Life | by Nov 05 | ~Nov 05 or earlier · in ~10d | ⏳ waiting |
-| Copart | by Nov 05 | ~Nov 05 or earlier · in ~10d | ⏳ waiting |
-| Samsung Research America | by Nov 05 | ~Nov 05 or earlier · in ~10d | ⏳ waiting |
-| Electronic Arts | by Nov 05 | ~Nov 05 or earlier · in ~10d | ⏳ waiting |
-| State Street | by Nov 05 | ~Nov 05 or earlier · in ~10d | ⏳ waiting |
+| Rivian and Volkswagen Group Technologies | Oct 30 | ~Oct 30 · in ~3d | ⏳ waiting |
+| Leidos | by Nov 05 | ~Nov 05 or earlier · in ~9d | ⏳ waiting |
+| Meta | by Nov 05 | ~Nov 05 or earlier · in ~9d | ⏳ waiting |
+| T-Mobile | by Nov 05 | ~Nov 05 or earlier · in ~9d | ⏳ waiting |
+| Sun Life | by Nov 05 | ~Nov 05 or earlier · in ~9d | ⏳ waiting |
+| Copart | by Nov 05 | ~Nov 05 or earlier · in ~9d | ⏳ waiting |
+| Samsung Research America | by Nov 05 | ~Nov 05 or earlier · in ~9d | ⏳ waiting |
+| Electronic Arts | by Nov 05 | ~Nov 05 or earlier · in ~9d | ⏳ waiting |
+| State Street | by Nov 05 | ~Nov 05 or earlier · in ~9d | ⏳ waiting |
 
 _867 companies on the [full radar](https://shanp23.github.io/aiinternshiptracker/#radar). "by Nov 05" = the role was already up when last cycle's reference window opened - treat it as a latest bound. "waiting" means not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
@@ -99,7 +99,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,886 companies across 11 ATS platforms · 99% fetch success · completed in 271.8s._
+_Engine (last run): 4,886 companies across 11 ATS platforms · 97% fetch success · completed in 467.8s._
 
 ## Contributing
 
