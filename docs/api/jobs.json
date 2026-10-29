@@ -1,7 +1,23 @@
 {
- "generated_at": "2026-10-29T09:42:55Z",
+ "generated_at": "2026-10-29T16:50:29Z",
  "source": "https://github.com/shanp23/aiinternshiptracker",
  "h1b_window": "FY2022–2023",
- "count": 0,
- "jobs": []
+ "count": 1,
+ "jobs": [
+  {
+   "id": "workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126",
+   "company": "CareSource",
+   "title": "2027 Summer Internship Program - AI Healthcare Operations",
+   "season": "Summer 2027",
+   "category": "Strategy & Ops",
+   "location": "Remote",
+   "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126",
+   "posted_at": "2026-10-29T00:00:00Z",
+   "first_seen_at": "2026-10-29T16:50:29Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "source": "workday",
+   "h1b_approvals": 26
+  }
+ ]
 }

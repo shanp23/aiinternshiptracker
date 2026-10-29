@@ -1,1 +1,22 @@
-{}
+{
+  "workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126": {
+    "category": "Strategy & Ops",
+    "coding": "unknown",
+    "company": "CareSource",
+    "company_slug": "caresource",
+    "enriched_at": "2026-10-29T16:50:29Z",
+    "first_seen_at": "2026-10-29T16:50:29Z",
+    "id": "workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126",
+    "is_open": true,
+    "last_seen_at": "2026-10-29T16:50:29Z",
+    "loc_tier": "remote",
+    "location": "Remote",
+    "posted_at": "2026-10-29T00:00:00Z",
+    "salary": null,
+    "season": "Summer 2027",
+    "source": "workday",
+    "sponsorship": "unknown",
+    "title": "2027 Summer Internship Program - AI Healthcare Operations",
+    "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126"
+  }
+}
