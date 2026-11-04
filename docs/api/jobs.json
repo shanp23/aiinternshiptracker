@@ -1,9 +1,24 @@
 {
- "generated_at": "2026-11-04T09:06:01Z",
+ "generated_at": "2026-11-04T17:10:49Z",
  "source": "https://github.com/shanp23/aiinternshiptracker",
  "h1b_window": "FY2022–2023",
- "count": 1,
+ "count": 2,
  "jobs": [
+  {
+   "id": "workday:centene:/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1",
+   "company": "Centene",
+   "title": "AI Business Strategy Intern (Undergraduate Summer 2027)",
+   "season": "Summer 2027",
+   "category": "Strategy & Ops",
+   "location": "Remote-MO",
+   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1",
+   "posted_at": "2026-11-04T00:00:00Z",
+   "first_seen_at": "2026-11-04T17:10:49Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "source": "workday",
+   "h1b_approvals": 114
+  },
   {
    "id": "workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126",
    "company": "CareSource",

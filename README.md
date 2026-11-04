@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**1 open roles · 1 new this week · 5,060 companies tracked · updated Nov 04, 2026 at 09:06 UTC**
+**2 open roles · 2 new this week · 5,060 companies tracked · updated Nov 04, 2026 at 17:10 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -48,6 +48,12 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 - Missing a company? Adding one takes a single line, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
+
+## Summer 2027  (1 open)
+
+| Company | Role | Category | Location | Posted | Apply |
+|---|---|---|---|---|---|
+| Centene | AI Business Strategy Intern (Undergraduate Summer 2027) 🆕 | Strategy & Ops | Remote-MO | Nov 04, 2026 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1) |
 
 ## Summer 2027 (International)  (1 open)
 
@@ -103,7 +109,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,060 companies across 11 ATS platforms · 98% fetch success · completed in 441.0s · real posted dates on 100% of open roles._
+_Engine (last run): 5,060 companies across 11 ATS platforms · 99% fetch success · completed in 415.3s · real posted dates on 100% of open roles._
 
 ## Contributing
 

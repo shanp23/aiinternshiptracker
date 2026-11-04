@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://shanp23.github.io/aiinternshiptracker/feed.xml" rel="self"/>
   <link href="https://github.com/shanp23/aiinternshiptracker"/>
-  <updated>2026-11-04T09:06:01Z</updated>
+  <updated>2026-11-04T17:10:49Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:centene:/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1</id>
+    <title>Centene: AI Business Strategy Intern (Undergraduate Summer 2027)</title>
+    <link href="https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1"/>
+    <updated>2026-11-04T17:10:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Strategy &amp; Ops · Remote-MO · H-1B track record: ~114 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:caresource:/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126</id>
     <title>CareSource: 2027 Summer Internship Program - AI Healthcare Operations</title>
