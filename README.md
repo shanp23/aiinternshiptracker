@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**2 open roles · 2 new this week · 5,060 companies tracked · updated Nov 05, 2026 at 05:53 UTC**
+**1 open roles · 1 new this week · 5,060 companies tracked · updated Nov 05, 2026 at 14:25 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -49,12 +49,6 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 
 ---
 
-## Summer 2027  (1 open)
-
-| Company | Role | Category | Location | Posted | Apply |
-|---|---|---|---|---|---|
-| Centene | AI Business Strategy Intern (Undergraduate Summer 2027) 🆕 | Strategy & Ops | Remote-MO | Nov 04, 2026 | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1) |
-
 ## Summer 2027 (International)  (1 open)
 
 | Company | Role | Category | Location | Posted | Apply |
@@ -94,6 +88,15 @@ Stop refreshing career pages. This is each company's **first intern posting last
 
 _867 companies on the [full radar](https://shanp23.github.io/aiinternshiptracker/#radar). "by Nov 05" = the role was already up when last cycle's reference window opened - treat it as a latest bound. "waiting" means not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
+<details>
+<summary><strong>Recently closed</strong> — 1 roles taken down in the last 14 days</summary>
+
+| Company | Role | Cycle | Closed |
+|---|---|---|---|
+| Centene | AI Business Strategy Intern (Undergraduate Summer 2027) | Summer 2027 | 2026-11-05 |
+
+</details>
+
 ---
 
 ## Hiring timeline
@@ -109,7 +112,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,060 companies across 11 ATS platforms · 97% fetch success · completed in 481.5s · real posted dates on 100% of open roles._
+_Engine (last run): 5,060 companies across 11 ATS platforms · 97% fetch success · completed in 503.2s · real posted dates on 100% of open roles._
 
 ## Contributing
 
