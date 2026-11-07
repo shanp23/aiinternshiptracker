@@ -250,8 +250,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/par?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
   },
   "ashby:patch": {
-    "consecutive_failures": 15,
-    "last_attempt_at": "2026-11-04T17:10:49Z",
+    "consecutive_failures": 16,
+    "last_attempt_at": "2026-11-07T20:47:36Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/patch?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "ashby:personainc": {
@@ -450,8 +450,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/artefactus/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:atlassand": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-07T16:16:54Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-11-07T20:47:36Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/atlassand/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:barkley": {
@@ -863,6 +863,11 @@
     "consecutive_failures": 46,
     "last_attempt_at": "2026-11-04T23:31:14Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/uplifter/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
+  },
+  "greenhouse:viseai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-07T20:47:36Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/viseai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:visiersolutionsinc": {
     "consecutive_failures": 12,
@@ -1864,6 +1869,11 @@
     "last_attempt_at": "2026-11-07T16:16:54Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zippd/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
+  "workday:aah": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-07T20:47:36Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+  },
   "workday:activision": {
     "consecutive_failures": 46,
     "last_attempt_at": "2026-11-04T23:31:14Z",
@@ -1944,10 +1954,30 @@
     "last_attempt_at": "2026-11-04T23:31:14Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://donaldson.wd5.myworkdayjobs.com/wday/cxs/donaldson/donaldsoncareers/jobs'\nFor more information check: https://developer.mozill"
   },
+  "workday:envista": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-07T20:47:36Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://envista.wd1.myworkdayjobs.com/wday/cxs/envista/envistacareers/jobs'\nFor more information check: https://developer.mozilla.org/en-"
+  },
+  "workday:eosenergystorage": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-07T20:47:36Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://eosenergystorage.wd1.myworkdayjobs.com/wday/cxs/eosenergystorage/eos/jobs'\nFor more information check: https://developer.mozilla."
+  },
+  "workday:ercot": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-07T20:47:36Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://ercot.wd1.myworkdayjobs.com/wday/cxs/ercot/ercot_careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
+  },
   "workday:evrazna": {
     "consecutive_failures": 46,
     "last_attempt_at": "2026-11-04T23:31:14Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://evrazna.wd5.myworkdayjobs.com/wday/cxs/evrazna/EVRAZ/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
+  },
+  "workday:fico": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-07T20:47:36Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://fico.wd1.myworkdayjobs.com/wday/cxs/fico/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "workday:fidelity": {
     "consecutive_failures": 46,
@@ -2053,6 +2083,11 @@
     "consecutive_failures": 46,
     "last_attempt_at": "2026-11-04T23:31:14Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://nrel.wd5.myworkdayjobs.com/wday/cxs/nrel/nrel/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
+  },
+  "workday:nxp": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-07T20:47:36Z",
+    "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://nxp.wd3.myworkdayjobs.com/wday/cxs/nxp/careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "workday:onedigital": {
     "consecutive_failures": 37,
@@ -2180,8 +2215,8 @@
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://takeda.wd3.myworkdayjobs.com/wday/cxs/takeda/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "workday:usicinc": {
-    "consecutive_failures": 18,
-    "last_attempt_at": "2026-11-04T17:10:49Z",
+    "consecutive_failures": 19,
+    "last_attempt_at": "2026-11-07T20:47:36Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://usicinc.wd5.myworkdayjobs.com/wday/cxs/usicinc/USICCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "workday:vca": {
