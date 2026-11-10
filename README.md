@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**1 open roles · 0 new this week · 5,102 companies tracked · updated Nov 10, 2026 at 16:20 UTC**
+**0 open roles · 0 new this week · 5,102 companies tracked · updated Nov 10, 2026 at 22:17 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -49,11 +49,7 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 
 ---
 
-## Summer 2027 (International)  (1 open)
-
-| Company | Role | Category | Location | Posted | Apply |
-|---|---|---|---|---|---|
-| CareSource | 2027 Summer Internship Program - AI Healthcare Operations | Strategy & Ops | Remote | Oct 29, 2026 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Healthcare-Operations_R14126) |
+_No matching roles right now, the list fills as companies post. Star it and check back._
 
 <a id="drop-radar"></a>
 
@@ -89,10 +85,11 @@ Stop refreshing career pages. This is each company's **first intern posting last
 _867 companies on the [full radar](https://shanp23.github.io/aiinternshiptracker/#radar). "by Nov 05" = the role was already up when last cycle's reference window opened - treat it as a latest bound. "waiting" means not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 1 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 2 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| CareSource | 2027 Summer Internship Program - AI Healthcare Operations | Summer 2027 | 2026-11-10 |
 | Centene | AI Business Strategy Intern (Undergraduate Summer 2027) | Summer 2027 | 2026-11-05 |
 
 </details>
@@ -112,7 +109,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,102 companies across 11 ATS platforms · 99% fetch success · completed in 416.0s · real posted dates on 100% of open roles._
+_Engine (last run): 5,102 companies across 11 ATS platforms · 98% fetch success · completed in 365.8s._
 
 ## Contributing
 
