@@ -1,4 +1,3 @@
-{"ts": "2026-07-17T00:11:57Z", "open": 0, "new": 0, "companies": 3653, "ok_rate": 0.997, "quarantined": 202, "secs": 253.9}
 {"ts": "2026-07-17T04:14:13Z", "open": 0, "new": 0, "companies": 3653, "ok_rate": 0.994, "quarantined": 195, "secs": 289.2}
 {"ts": "2026-07-17T07:24:00Z", "open": 0, "new": 0, "companies": 3653, "ok_rate": 0.993, "quarantined": 187, "secs": 271.5}
 {"ts": "2026-07-17T10:04:57Z", "open": 0, "new": 0, "companies": 3653, "ok_rate": 0.988, "quarantined": 188, "secs": 254.4}
@@ -998,3 +997,4 @@
 {"ts": "2026-11-14T21:15:00Z", "open": 0, "new": 0, "companies": 5102, "ok_rate": 0.996, "quarantined": 589, "secs": 280.5}
 {"ts": "2026-11-15T01:39:20Z", "open": 0, "new": 0, "companies": 5102, "ok_rate": 0.986, "quarantined": 410, "secs": 337.0}
 {"ts": "2026-11-15T09:04:05Z", "open": 0, "new": 0, "companies": 5102, "ok_rate": 0.977, "quarantined": 458, "secs": 473.2}
+{"ts": "2026-11-15T16:17:56Z", "open": 0, "new": 0, "companies": 5102, "ok_rate": 0.989, "quarantined": 411, "secs": 388.5}
